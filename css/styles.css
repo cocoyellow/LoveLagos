@@ -1,0 +1,132 @@
+
+.container-fluid{
+  background-color: #C5ECBE;
+  padding: 3% 15%;
+font-weight: bold;}
+  .ll1{
+    text-decoration: underline;
+  }
+h1{font-family: 'Montserrat-black', sans-serif;
+font-size: 3rem;
+line-height: 1.5;
+color: #4797b1;}
+.btn-primary{
+  border-color:#4797b1;
+  background-color: #4797b1;}
+
+h2{
+  color: #4797b1;
+
+font-family: 'Ubuntu', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: black;
+  line-height: 2;
+}
+h5{
+  color: #C5ECBE;
+  font-weight: bolder;
+}
+  .p-feature{
+    color: grey;
+  }
+
+.btn-outline-primary{
+  border-color: white;
+  color: #4797b1;
+}
+.feature-box{
+  text-align: center;
+  padding: 7% 2%;
+}
+  .features{
+    background-color: #f7f3ce;
+}
+.easy-style{
+ width: 80px;
+ height: 80px;
+ margin-bottom: 4px;
+}
+.testimonials{
+  background-color: #f7f3ce;
+ font-weight: bold;
+ padding: 7% 2%;
+ color: #C5ECBE;
+}
+.press{background-color: #f7f3ce;
+display: flex;
+ flex-wrap: wrap;
+width: 100%;
+justify-content: center;}
+.row-a{background-color: #f7f3ce;
+display: flex;
+ flex-wrap: wrap;
+padding: 5% 7%;
+justify-content: center;}
+
+ .press-content{
+   margin: 5px;
+   width: 9.5rem;
+   height: 5rem;
+ }
+.pricing{
+  background-color: #f7f3ce;
+  font-family:'Montserrat', sans-serif;
+  font-weight: bolder;
+}
+.socials-content{
+  background-color: #C5ECBE;
+}
+.superswipe{margin: 0;
+border-bottom: 0;
+padding: 0;}
+.prices{
+  text-align: center;
+}
+.prices-paragraph{color: grey;}
+.main-grid{
+  text-align: center;
+ align-items: center;
+}
+.grid{
+  display: flex;
+    flex-wrap: wrap;
+    padding: 5%;
+    justify-content: center;
+}
+
+/*use this syntax to make surrounding boxes*/
+.grid-container{
+  box-sizing: content-box;
+  width: auto;
+  height: auto;
+  padding: 40px;
+  text-align: center;
+  margin: 0.5rem;
+border-top: solid;
+}
+.grid-container:hover{
+  transform: scale(1.2);
+  border-color: #C5ECBE;
+  border: 1px;
+  border-style: none;
+  background-color: #C5ECBE;
+
+
+}
+.h3-grid-container{color: #4797b1;}
+.h2-grid-container{color: #4797b1;}
+.p-grid-container{color: grey;}
+.per-mo{
+  vertical-align: middle;
+  line-height: 0;
+}
+.p-travel{
+  text-decoration: line-through;
+}
+.socials{
+  align-content: center;
+  text-align: center;
+}
